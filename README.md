@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...AI and ML 
 - 🌱 I’m currently learning ...Python and it's library
 - 💞️ I’m looking to collaborate on ...AI/ML projects
-- 📫 How to reach me ...sayeedahmad06062002@gmail.com and https://www.linkedin.com/in/sayeed-ahmad-6428172b1/
+- 📫 How to reach me ...sayeedahmad06062002@gmail.com and https://www.linkedin.com/in/sayeed-ahmad-6b1885258/
 - 😄 Pronouns: ...He
 - ⚡ Fun fact: ...Energetic for coding and travelling
 
